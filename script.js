@@ -9,4 +9,4 @@ console.log("upi integrated added");
 
 console.log("this is github change");
 
-console("this is editted by github itself");
+console("this is editted by github itself now in local setup use git pull origin main");
