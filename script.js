@@ -7,6 +7,9 @@ let payment = console.log("payment getway added");
 
 console.log("upi integrated added");
 
+
+// I AM FROM FEATURE BRANCH
+console.log("this is BUG fixed by me ")
 console.log("this is github change");
 
 console("this is editted by github itself now in local setup use git pull origin main");
